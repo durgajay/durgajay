@@ -1,1 +1,1 @@
-- 👋 Hi, My name is Jay Durga a Security Consultant with AWS Professional Services.
+- 👋 Hi, My name is Jay Durga, I am a Security Consultant with AWS Professional Services.
